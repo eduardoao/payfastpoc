@@ -1,0 +1,29 @@
+{
+  "name": "payfast",
+  "version": "1.0.0",
+  "description": "Gaeway de pagamento poc. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardoao/payfastpoc.git"
+  },
+  "keywords": [
+    "gateway",
+    "de",
+    "pagamentos",
+    "API"
+  ],
+  "author": "Eduardo Alcantara de Oliveira.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardoao/payfastpoc/issues"
+  },
+  "homepage": "https://github.com/eduardoao/payfastpoc#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.16.4"
+  }
+}
